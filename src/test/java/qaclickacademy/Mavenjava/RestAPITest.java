@@ -11,6 +11,13 @@ public class RestAPITest {
 		System.out.println("postJira");
 		System.out.println("postJira");
 	}
+	@Test
+	public void preJira()
+	{
+		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
+	}
 	
 	@Test
 	public void deleteTwitter()
